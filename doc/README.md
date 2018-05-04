@@ -2,8 +2,18 @@
 
 
 ````html
-<link rel="stylesheet" href="../lib/index.less" />
+<link rel="stylesheet" href="../lib/index.css" />
 ````
+
+```js
+require('face-icon/lib/index.css')
+```
+[source less](https://github.com/onface/icon/tree/master/lib)
+
+https://unpkg.com/face-icon@latest/lib/index.css
+
+https://unpkg.com/face-icon@latest/lib/font/
+
 
 <blockquote cite="http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=790">
     图标来源 ant-design <a href="http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=790">http://iconfont.cn/collections/detail?spm=a313x.7781069.1998910419.d9df05512&cid=790</a>
